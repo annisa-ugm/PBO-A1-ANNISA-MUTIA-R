@@ -1,0 +1,4 @@
+interface Defensible {
+    void defense();
+}
+
